@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-16"?>
+<PrinterConfigStruct xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Unit>0</Unit>
+  <Edition>106</Edition>
+  <PrinterDPI>203</PrinterDPI>
+  <PrinterMMDot>7.992126</PrinterMMDot>
+  <CuttingCounter>0</CuttingCounter>
+  <ResetCuttingCounter>0</ResetCuttingCounter>
+  <Verion>TTP244Pro Version: 8.13 EZD </Verion>
+  <Milage>0.1672</Milage>
+  <ResetMilage>0.1672</ResetMilage>
+  <Checksum>0926429E</Checksum>
+  <Serial />
+  <Serial_TPH>N/A</Serial_TPH>
+  <Milage_TPH>N/A</Milage_TPH>
+  <Serial_Cutter>N/A</Serial_Cutter>
+  <Counter_Cutter>0</Counter_Cutter>
+  <SpeedFlag>1</SpeedFlag>
+  <Speed>5</Speed>
+  <DensityFlag>1</DensityFlag>
+  <Density>12</Density>
+  <DensityBaseFlag>1</DensityBaseFlag>
+  <DensityBase>0</DensityBase>
+  <PaperWidthFlag>1</PaperWidthFlag>
+  <PaperWidth>256</PaperWidth>
+  <PaperHeightFlag>1</PaperHeightFlag>
+  <PaperHeight>200</PaperHeight>
+  <SensorModeFlag>1</SensorModeFlag>
+  <SensorMode>0</SensorMode>
+  <GapSizeFlag>1</GapSizeFlag>
+  <GapSize>19</GapSize>
+  <GapOffsetFlag>1</GapOffsetFlag>
+  <GapOffset>16</GapOffset>
+  <PrintOutFlag>1</PrintOutFlag>
+  <PrintOut>1</PrintOut>
+  <CutterPieceFlag>0</CutterPieceFlag>
+  <CutterPiece>0</CutterPiece>
+  <ReferenceXFlag>1</ReferenceXFlag>
+  <ReferenceX>0</ReferenceX>
+  <ReferenceYFlag>1</ReferenceYFlag>
+  <ReferenceY>0</ReferenceY>
+  <DirectionFlag>1</DirectionFlag>
+  <Direction>0</Direction>
+  <MirrorFlag>1</MirrorFlag>
+  <Mirror>0</Mirror>
+  <OffsetFlag>1</OffsetFlag>
+  <Offset>0</Offset>
+  <OffsetBaseFlag>1</OffsetBaseFlag>
+  <OffsetBase>0</OffsetBase>
+  <ShiftYFlag>1</ShiftYFlag>
+  <ShiftY>0</ShiftY>
+  <ShiftYBaseFlag>1</ShiftYBaseFlag>
+  <ShiftYBase>0</ShiftYBase>
+  <ShiftXFlag>1</ShiftXFlag>
+  <ShiftX>0</ShiftX>
+  <ShiftXBaseFlag>1</ShiftXBaseFlag>
+  <ShiftXBase>0</ShiftXBase>
+  <RibbonFlag>1</RibbonFlag>
+  <Ribbon>1</Ribbon>
+  <RibbonSensorFlag>1</RibbonSensorFlag>
+  <RibbonSensor>1</RibbonSensor>
+  <RibbonEncoderFlag>1</RibbonEncoderFlag>
+  <RibbonEncoder>1</RibbonEncoder>
+  <CodePageFlag>1</CodePageFlag>
+  <CodePage>38</CodePage>
+  <CountryFlag>1</CountryFlag>
+  <Country>0</Country>
+  <HeadFlag>1</HeadFlag>
+  <Head>1</Head>
+  <ReprintFlag>1</ReprintFlag>
+  <Reprint>1</Reprint>
+  <MaximumLengthFlag>1</MaximumLengthFlag>
+  <MaximumLength>2030</MaximumLength>
+  <GapIntenFlag>1</GapIntenFlag>
+  <GapInten>11</GapInten>
+  <BlineIntenFlag>1</BlineIntenFlag>
+  <BlineInten>1</BlineInten>
+  <ConIntenFlag>1</ConIntenFlag>
+  <ConInten>9</ConInten>
+  <AutoThresholdFlag>1</AutoThresholdFlag>
+  <AutoThreshold>1</AutoThreshold>
+  <PrintQualityFlag>0</PrintQualityFlag>
+  <PrintQuality />
+  <StandByTimeFlag>0</StandByTimeFlag>
+  <StandByTime>0</StandByTime>
+  <SleepTimeFlag>0</SleepTimeFlag>
+  <SleepTime>0</SleepTime>
+  <z_DarknessFlag>1</z_DarknessFlag>
+  <z_Darkness>16</z_Darkness>
+  <z_PrintSpeedFlag>1</z_PrintSpeedFlag>
+  <z_PrintSpeed>2</z_PrintSpeed>
+  <z_TearOffFlag>1</z_TearOffFlag>
+  <z_TearOff>0</z_TearOff>
+  <z_PrintModeFlag>1</z_PrintModeFlag>
+  <z_PrintMode>1</z_PrintMode>
+  <z_PrintWidthFlag>1</z_PrintWidthFlag>
+  <z_PrintWidth>812</z_PrintWidth>
+  <z_ControlPrefixFlag>1</z_ControlPrefixFlag>
+  <z_ControlPrefix>126</z_ControlPrefix>
+  <z_FormatPrefixFlag>1</z_FormatPrefixFlag>
+  <z_FormatPrefix>94</z_FormatPrefix>
+  <z_DelimiterCharFlag>1</z_DelimiterCharFlag>
+  <z_DelimiterChar>44</z_DelimiterChar>
+  <z_MediaPowerUpFlag>1</z_MediaPowerUpFlag>
+  <z_MediaPowerUp>4</z_MediaPowerUp>
+  <z_HeadCloseFlag>1</z_HeadCloseFlag>
+  <z_HeadClose>4</z_HeadClose>
+  <z_LabelTopFlag>1</z_LabelTopFlag>
+  <z_LabelTop>0</z_LabelTop>
+  <z_LeftPositionFlag>1</z_LeftPositionFlag>
+  <z_LeftPosition>0</z_LeftPosition>
+  <d_HeatFlag>1</d_HeatFlag>
+  <d_Heat>10</d_Heat>
+  <d_PrintSpeedFlag>1</d_PrintSpeedFlag>
+  <d_PrintSpeed>4</d_PrintSpeed>
+  <d_LabelWidthFlag>1</d_LabelWidthFlag>
+  <d_LabelWidth>832</d_LabelWidth>
+  <d_PresentSensorFlag>1</d_PresentSensorFlag>
+  <d_PresentSensor>1</d_PresentSensor>
+  <d_CutterEquippedFlag>1</d_CutterEquippedFlag>
+  <d_CutterEquipped>1</d_CutterEquipped>
+  <d_ControlCodesFlag>1</d_ControlCodesFlag>
+  <d_ControlCodes>1</d_ControlCodes>
+  <d_ColumnOffsetFlag>1</d_ColumnOffsetFlag>
+  <d_ColumnOffset>0</d_ColumnOffset>
+  <d_RowOffsetFlag>1</d_RowOffsetFlag>
+  <d_RowOffset>0</d_RowOffset>
+  <BaudRateFlag>1</BaudRateFlag>
+  <BaudRate>3</BaudRate>
+  <DataBitFlag>1</DataBitFlag>
+  <DataBit>1</DataBit>
+  <ParityFlag>1</ParityFlag>
+  <Parity>0</Parity>
+  <StopBitFlag>1</StopBitFlag>
+  <StopBit>0</StopBit>
+  <IsWiFi>0</IsWiFi>
+  <WiFiSSIDFlag>0</WiFiSSIDFlag>
+  <WiFiSSID />
+  <WiFiEncryptionFlag>0</WiFiEncryptionFlag>
+  <WiFiEncryption>0</WiFiEncryption>
+  <WiFiKeyFlag>0</WiFiKeyFlag>
+  <WiFiKey />
+  <WiFiIPFlag>0</WiFiIPFlag>
+  <WiFiIP />
+  <WiFiMaskFlag>0</WiFiMaskFlag>
+  <WiFiMask />
+  <WiFiGatewayFlag>0</WiFiGatewayFlag>
+  <WiFiGateway />
+  <WiFiDNS0Flag>0</WiFiDNS0Flag>
+  <WiFiDNS0 />
+  <WiFiDNS1Flag>0</WiFiDNS1Flag>
+  <WiFiDNS1 />
+  <WiFiRawPort />
+  <WiFiRawPortFlag>0</WiFiRawPortFlag>
+  <WiFiCmdPort>0</WiFiCmdPort>
+  <WiFiCmdPortFlag>0</WiFiCmdPortFlag>
+  <WiFiEapTypeFlag>0</WiFiEapTypeFlag>
+  <WiFiEapType>0</WiFiEapType>
+  <WiFiUsernameFlag>0</WiFiUsernameFlag>
+  <WiFiUsername />
+  <WiFiPasswdFlag>0</WiFiPasswdFlag>
+  <WiFiPasswd />
+  <WiFiPrinterNameFlag>0</WiFiPrinterNameFlag>
+  <WiFiPrinterName />
+  <IsBT>0</IsBT>
+  <BTPinCodeFlag>0</BTPinCodeFlag>
+  <BTPinCode />
+  <BTPairModeFlag>0</BTPairModeFlag>
+  <BTPairMode />
+  <BTNameFlag>0</BTNameFlag>
+  <BTName />
+  <IsExBT>0</IsExBT>
+  <ExBTPinCodeFlag>0</ExBTPinCodeFlag>
+  <ExBTNameFlag>0</ExBTNameFlag>
+  <BTSoftwareFlag>0</BTSoftwareFlag>
+  <BTSoftware />
+  <BTMacAddrFlag>0</BTMacAddrFlag>
+  <BTMacAddr />
+  <DHCP>true</DHCP>
+  <DHCPFlag>0</DHCPFlag>
+  <IPData>0.0.0.0</IPData>
+  <IPDataFlag>0</IPDataFlag>
+  <MaskData>0.0.0.0</MaskData>
+  <MaskDataFlag>0</MaskDataFlag>
+  <GateWayData>0.0.0.0</GateWayData>
+  <GateWayDataFlag>0</GateWayDataFlag>
+  <LastUsedIP>0.0.0.0</LastUsedIP>
+  <LastUsedIPFlag>0</LastUsedIPFlag>
+  <PrinterName>PS-FF02AA</PrinterName>
+  <PrinterNameFlag>0</PrinterNameFlag>
+  <IsEthernet>1</IsEthernet>
+  <MACAddr>00-1B-82-FF-02-AA</MACAddr>
+  <RawPort>9100
+</RawPort>
+  <RawPortFlag>0</RawPortFlag>
+  <DNSIP0Flag>0</DNSIP0Flag>
+  <DNSIP1Flag>0</DNSIP1Flag>
+  <DotScanReady>0</DotScanReady>
+  <DotScanFlag>0</DotScanFlag>
+  <DotScan>-1</DotScan>
+  <DotScanNumFlag>0</DotScanNumFlag>
+  <DotScanNum>0</DotScanNum>
+  <BadDotNow>0</BadDotNow>
+  <LabelCount>
+</LabelCount>
+  <BatterySerialNumberFlag>0</BatterySerialNumberFlag>
+  <BatteryCurrentVoltageFlag>0</BatteryCurrentVoltageFlag>
+  <BatteryCurrentVoltage />
+  <BatteryCapacityPercentageFlag>0</BatteryCapacityPercentageFlag>
+  <BatteryCapacityPercentage />
+  <BatteryTemperatureFlag>0</BatteryTemperatureFlag>
+  <BatteryTemperature />
+  <BatteryManufactureDateFlag>0</BatteryManufactureDateFlag>
+  <BatteryManufactureDate />
+  <BatteryDischargedCountFlag>0</BatteryDischargedCountFlag>
+  <BatteryDischargedCount />
+  <BatteryHealthyStateFlag>0</BatteryHealthyStateFlag>
+  <BatteryHealthyState />
+  <IsSMTP>0</IsSMTP>
+  <SMTPSRVIPFlag>0</SMTPSRVIPFlag>
+  <SMTPAUTHENFlag>0</SMTPAUTHENFlag>
+  <SMTPAUTHEN />
+  <SMTPUSERNAMEFlag>0</SMTPUSERNAMEFlag>
+  <SMTPUSERNAME />
+  <SMTPPASSWORDFlag>0</SMTPPASSWORDFlag>
+  <SMTPPASSWORD />
+  <SMTPSENDERADDRFlag>0</SMTPSENDERADDRFlag>
+  <SMTPSENDERADDR />
+  <SMTPRECVERADDRFlag>0</SMTPRECVERADDRFlag>
+  <SMTPRECVERADDR />
+  <SMTPERRORNOTIFFlag>0</SMTPERRORNOTIFFlag>
+  <SMTPERRORNOTIF />
+  <SMTPNOTIFINTERVFlag>0</SMTPNOTIFINTERVFlag>
+  <SMTPNOTIFINTERV />
+  <IsSNTP>0</IsSNTP>
+  <SNTPSYNCFlag>0</SNTPSYNCFlag>
+  <SNTPSRVIP1Flag>0</SNTPSRVIP1Flag>
+  <SNTPSRVIP1 />
+  <SNTPSRVIP2Flag>0</SNTPSRVIP2Flag>
+  <SNTPSRVIP2 />
+  <SNTPSRVIP3Flag>0</SNTPSRVIP3Flag>
+  <SNTPSRVIP3 />
+  <SNTPINTVHOURFlag>0</SNTPINTVHOURFlag>
+  <SNTPINTVHOUR />
+  <SNTPINTVMINFlag>0</SNTPINTVMINFlag>
+  <SNTPINTVMIN />
+  <SNTPTIMEZONEFlag>0</SNTPTIMEZONEFlag>
+  <SNTPTIMEZONE />
+  <_8021X_EAPFlag>0</_8021X_EAPFlag>
+  <_8021X_EAP>0</_8021X_EAP>
+  <_8021X_IdentityFlag>0</_8021X_IdentityFlag>
+  <_8021X_Identity />
+  <_8021X_UserNameFlag>0</_8021X_UserNameFlag>
+  <_8021X_UserName />
+  <_8021X_UserPwdFlag>0</_8021X_UserPwdFlag>
+  <_8021X_UserPwd />
+  <_8021X_CACert />
+  <_8021X_ClientCert />
+  <_8021X_ClientKey />
+  <_8021X_ClientKeyPwd />
+  <_8021X_TLSVerFlag>0</_8021X_TLSVerFlag>
+  <_8021X_TLSVer>0</_8021X_TLSVer>
+  <_8021X_VerifyTLS_ServerFlag>0</_8021X_VerifyTLS_ServerFlag>
+  <_8021X_VerifyTLS_Server>0</_8021X_VerifyTLS_Server>
+  <_8021X_VerifyTLS_ClientFlag>0</_8021X_VerifyTLS_ClientFlag>
+  <_8021X_VerifyTLS_Client>0</_8021X_VerifyTLS_Client>
+  <_8021X_TimeoutFlag>0</_8021X_TimeoutFlag>
+  <_8021X_Timeout>0</_8021X_Timeout>
+  <WiFi_802_11r>-1</WiFi_802_11r>
+  <WiFi_802_11rFlag>0</WiFi_802_11rFlag>
+</PrinterConfigStruct>
