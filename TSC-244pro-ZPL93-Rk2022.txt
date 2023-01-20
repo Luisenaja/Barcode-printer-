@@ -5,34 +5,34 @@
 ^MD10
 ^PR3
 
-^fo30,10^a1N,30,30^fdร้านคุณอร^fs
+^fo30,10^a1N,30,30^fdหลุยส์บ้านไฟฟ้า^fs
 ^fo200,10^a1N,30,30^fd<GOODSUTQ>^fs
 ^fo30,40^a1N,35,35^fd<GOODSNAME>^fs
 ^FX Draw a white box where the text may over-run ^FS
 ^Fo250,40^GB150,45,45,W^FS
 ^fo40,75^BAN,50,Y,N,N^fd<GOODSCODE>^fs
 ^fo20,150^a1N,30,30^fdราคา^fs
-^fo100,140^a1N,50,50^fd<GOODSPRICE1>^fs
+^fo80,150^a1N,50,50^fd<GOODSPRICE1>^fs
 ^fo220,150^a1N,30,30^fdบาท^fs
 
-^fo300,10^a1N,30,30^fdร้านคุณอร^fs
+^fo300,10^a1N,30,30^fdหลุยส์บ้านไฟฟ้า^fs
 ^fo470,10^a1N,30,30^fd<GOODSUTQ>^fs
 ^fo300,40^a1N,35,35^fd<GOODSNAME>^fs
 ^FX Draw a white box where the text may over-run ^FS
 ^Fo520,40^GB150,45,45,W^FS
 ^fo310,75^BAN,50,Y,N,N^fd<GOODSCODE>^fs
 ^fo300,160^a1N,30,30^fdราคา^fs
-^fo380,140^a1N,50,50^fd<GOODSPRICE1>^fs
+^fo360,150^a1N,50,50^fd<GOODSPRICE1>^fs
 ^fo490,160^a1N,30,30^fdบาท^fs
 
-^fo570,10^a1N,30,30^fdร้านคุณอร^fs
+^fo570,10^a1N,30,30^fdหลุยส์บ้านไฟฟ้า^fs
 ^fo740,10^a1N,30,30^fd<GOODSUTQ>^fs
 ^fo570,40^a1n,35,35^fd<GOODSNAME>^fs
 ^FX Draw a white box where the text may over-run ^FS
 ^Fo790,40^GB150,45,45,W^FS
 ^fo570,75^BAN,50,Y,N,N^fd<GOODSCODE>^fs
 ^fo570,160^a1N,30,30^fdราคา^fs
-^fo660,140^a1n,50,50^fd<GOODSPRICE1>^fs
+^fo630,150^a1n,50,50^fd<GOODSPRICE1>^fs
 ^fo760,160^a1N,30,30^fdบาท^fs
 
 ^pq<ROW>
